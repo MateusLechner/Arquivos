@@ -25,7 +25,6 @@ public class CompraTask {
         Compra.getFinish().click();
         WebElement CompraConcluida = driver.findElement(By.xpath("//*[@id=\"columns\"]/div[1]/span[2]"));
         String compraconcluida = CompraConcluida.getText();
-        System.out.printf("%s",compraconcluida);
         Assertions.assertEquals("Order confirmation",compraconcluida,"Compra não concluída");
 
     }
