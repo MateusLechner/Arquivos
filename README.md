@@ -2,13 +2,13 @@
 
 Repositório destinado ao desafio
 
-## Requisitos:
+## Requisitos
 
 -Intellij.
 
 -Navegador Google Chrome.
 
-## Execução do Teste:
+## Execução do Teste
 
 -Baixe os arquivos do repositório.
 
@@ -19,4 +19,5 @@ Repositório destinado ao desafio
 -Execute o teste utilizando .
 
 ##Relatórios
+
 -O teste gera relatório que pode ser acessado em Report.
